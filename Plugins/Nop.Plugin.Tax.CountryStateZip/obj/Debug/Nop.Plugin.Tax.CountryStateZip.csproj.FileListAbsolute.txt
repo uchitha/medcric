@@ -1,0 +1,9 @@
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb

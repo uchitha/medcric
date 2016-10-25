@@ -1,0 +1,8 @@
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

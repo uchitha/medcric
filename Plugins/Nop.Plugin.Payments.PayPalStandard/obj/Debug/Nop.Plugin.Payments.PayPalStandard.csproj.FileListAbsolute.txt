@@ -1,0 +1,10 @@
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

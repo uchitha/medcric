@@ -1,0 +1,10 @@
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb

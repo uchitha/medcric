@@ -1,0 +1,9 @@
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Projects\Prasanna\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

@@ -12499,7 +12499,7 @@
     <Value>Home page</Value>
   </LocaleResource>
   <LocaleResource Name="HomePage.Products">
-    <Value>Featured products</Value>
+    <Value>Our Partners</Value>
   </LocaleResource>
   <LocaleResource Name="Languages">
     <Value>Languages</Value>
@@ -13987,7 +13987,7 @@
     <Value>to</Value>
   </LocaleResource>
   <LocaleResource Name="Search.SearchBox.Tooltip">
-    <Value>Search store</Value>
+    <Value>Search site</Value>
   </LocaleResource>
   <LocaleResource Name="Search.SearchInDescriptions">
     <Value>Search In product descriptions</Value>

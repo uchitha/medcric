@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=UCHITHA-MAINPC\SQLEXPRESS;Initial Catalog=MedCric;Integrated Security=True;Persist Security Info=False
